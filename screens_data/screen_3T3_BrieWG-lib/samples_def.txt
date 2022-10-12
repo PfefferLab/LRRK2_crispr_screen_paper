@@ -1,0 +1,6 @@
+3T3_BrieWG-lib_pRabHIGH_rep1.1.fastq.gz	high_ctr_1
+3T3_BrieWG-lib_pRabHIGH_rep2.1.fastq.gz	high_ctr_2
+3T3_BrieWG-lib_pRabLOW_rep1.1.fastq.gz	low_ctr_1
+3T3_BrieWG-lib_unsorted_rep1.1.fastq.gz	unsort_ctr_1
+3T3_BrieWG-lib_unsorted_rep2.1.fastq.gz	unsort_ctr_2
+3T3_BrieWG-lib_pRabLOW_rep2.1.fastq.gz	low_ctr_2
