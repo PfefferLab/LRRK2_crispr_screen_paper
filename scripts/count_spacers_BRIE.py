@@ -1,4 +1,6 @@
-#Supplementary Data 3: count_spacers.py
+#This script is a modified version of the `counts_spacer.py` script orginally published in Joung et al Nature Protocols 2016 manuscript and
+#the source code of which can be foun in 
+#https://github.com/fengzhanglab/Screening_Protocols_manuscript 
 
 from Bio import SeqIO
 import csv
